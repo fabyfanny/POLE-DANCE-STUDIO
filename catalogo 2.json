@@ -1,0 +1,33 @@
+{
+  "app": "PoleStudioPublic",
+  "version": 1,
+  "publishedAt": "2026-10-19T15:19:17.140Z",
+  "figures": [
+    {
+      "id": "fig-1-back-arch",
+      "name": "Back Arch",
+      "alias": "",
+      "photo": "data:image/webp;base64,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",
+      "videoUrl": "",
+      "level": 1,
+      "category": "Figura",
+      "style": "Entrambi",
+      "difficulty": 1,
+      "flexibility": 1,
+      "strength": 1,
+      "gripRating": 1,
+      "grip": "",
+      "contacts": "",
+      "prerequisites": "",
+      "steps": "",
+      "tips": "",
+      "errors": "",
+      "variations": "",
+      "safety": "Eseguire solo dopo aver verificato prerequisiti e assistenza appropriati.",
+      "verification": "Da completare e verificare",
+      "photoOrigin": "Schermata di riferimento caricata",
+      "sourceLevel": "Livello 1 nelle schermate di riferimento"
+    }
+  ],
+  "lessons": []
+}
